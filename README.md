@@ -1,3 +1,2 @@
 # miniQQ
 
-**bin:**
